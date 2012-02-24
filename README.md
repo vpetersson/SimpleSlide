@@ -26,7 +26,7 @@ SimpleSlide is released under [GPLv3](http://www.opensource.org/licenses/gpl-3.0
 View [demo on YouTube](http://www.youtube.com/watch?v=YHx3lWuPFTE).
 
 ## Known bugs
-See the [Issues-section](http://github.com/vpetersson/SimpleSlide/issues/) .
+See the [Issues-section](http://github.com/vpetersson/SimpleSlide/issues/).
 
 
 ## Feedback and contribution
